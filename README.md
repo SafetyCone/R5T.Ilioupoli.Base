@@ -1,0 +1,2 @@
+# R5T.Ilioupoli.Base
+An ITestingDataDirectoryContentConventions service definition base library for the Ilioupoli project.
