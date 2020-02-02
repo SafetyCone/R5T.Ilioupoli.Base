@@ -8,6 +8,7 @@ namespace R5T.Ilioupoli
         string BasicTextFileName { get; }
 
         string NewVisualStudio2017SolutionFileName { get; }
+        string NewVisualStudio2019SolutionFileName { get; }
         string ExampleVisualStudioSolutionFileName { get; }
     }
 }
