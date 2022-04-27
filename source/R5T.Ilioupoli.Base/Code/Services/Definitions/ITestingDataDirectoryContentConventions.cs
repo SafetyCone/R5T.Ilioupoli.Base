@@ -1,9 +1,9 @@
-﻿using System;
+using System;using R5T.T0064;
 
 
 namespace R5T.Ilioupoli
-{
-    public interface ITestingDataDirectoryContentConventions
+{[ServiceDefinitionMarker]
+    public interface ITestingDataDirectoryContentConventions:IServiceDefinition
     {
         string BasicTextFileName { get; }
 
